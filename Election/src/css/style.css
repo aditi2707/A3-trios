@@ -1,0 +1,80 @@
+.navbar{
+    background-color: #fff;
+}
+.navbar .nav-item{
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.navbar .nav-item .nav-link{
+    color: black;
+}
+
+.navbar .heading{
+    color: orange;
+    font-family: comic sans MS;
+    font-weight: bold;
+}
+
+#upper-body{
+    
+    height: 30rem;
+    border-style: solid;
+    border-radius: 25px;
+    padding: 4rem;
+}
+
+#about-section, #need-section, #contact-section, #election-result, #faq-section{
+    margin-top: 6rem;
+}
+
+#about-section .about-us{
+    font-size: 80px;
+    color: purple;
+}
+
+#about-section .features{
+    font-size: 50px;
+    color: purple;
+}
+
+#need-section .need{
+    font-size: 80px;
+    color: purple;
+}
+
+#faq-section .faq{
+    font-size: 80px;
+    color: purple;
+}
+
+#election-result .vote-here{
+    font-size: 80px;
+    color: purple;
+}
+
+
+#contact-section .contact-us{
+    font-size: 80px;
+    color: purple;
+}
+
+
+#main-heading{
+    background: url(../images/arnaud-jaegers-IBWJsMObnnU-unsplash.jpg);
+    height: 12rem;
+    background-position: center;
+    background-size: auto;
+    
+}
+
+#main-heading .primary-overlay{
+    background: black;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  
+}
