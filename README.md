@@ -7,6 +7,10 @@ Screenshots
 
 ![2020-11-04 (4)](https://user-images.githubusercontent.com/51512071/98102210-6196fc00-1eb9-11eb-95f4-53e9c8a5844c.png)
 
+### Voting
+![2020-09-06 (12)](https://user-images.githubusercontent.com/51512071/98102662-dcf8ad80-1eb9-11eb-9dfd-db1243c7af34.png)
+
+
 ![2020-11-04 (5)](https://user-images.githubusercontent.com/51512071/98102222-665bb000-1eb9-11eb-83ec-037b951394c2.png)
 
 
